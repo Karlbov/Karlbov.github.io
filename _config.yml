@@ -21,7 +21,7 @@ avatar_image: /img/Headshot.JPEG
 
 #-------------------------------
 # Contact links
-linkedln: "www.linkedin.com/in/karlbovenizer" Add your linkedln handle
+linkedln: "www.linkedin.com/in/karlbovenizer" # Add your linkedln handle
 github: "https://github.com/Karlbov"  # Add your github handle
 
 paginate: 6
